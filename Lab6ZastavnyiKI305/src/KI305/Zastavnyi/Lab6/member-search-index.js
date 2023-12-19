@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"KI305.Zastavnyi.Lab6","c":"BuildDriver","l":"BuildDriver()","u":"%3Cinit%3E()"},{"p":"KI305.Zastavnyi.Lab6","c":"BuildDriver","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
